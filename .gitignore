@@ -1,0 +1,13 @@
+#  gitignore file for lab 3 - Ignoring files & folders
+#
+# ignore any *.out files:
+*.out
+#
+# ignore any java artifacts:
+*.class
+*.o
+#
+# ignore an entire directory/folder
+private/
+#
+#
